@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38807'
     url: http://www.gutenberg.org/2009/agents/38807
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37377#Ueber-die-Wirkung-des-Nordsee-BadesEine-physiologisch-chemische-Untersuchung
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2011-09-10'
 gutenberg_type: Text
